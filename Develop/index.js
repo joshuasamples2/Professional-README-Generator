@@ -75,32 +75,5 @@ init();
 
 
 
-// .then(answers => {
-//     fs.writeFile('READMEexample.md',
-//     `[![License: ICL]
-// (https://img.shields.io/badge/License-${answers.license}-blue.svg)
-// ](https://opensource.org/licenses/${answers.license})
-// # ${answers.title}\n 
-// ## Project Description
-// ${answers.description}\n
-// ## Table of contents
-// * [Installation](#installation)
-// * [instructions](#instructions)
-// * [collaborators](#collaborators)
-// * [Contact and GitHub Info](questions)
-// ## Installation
-// ${answers.Installation}\n
-// ## instructions
-// ${answers.instructions}\n
-// ## collaborators
-// ${answers.collaborators}\n
-// ## Questions: \n
-// Github Profile: https://github.com/${answers.github} \n 
-// email: ${answers.email}\n
-// Screenshot of deployed application:\n
-// ![This is an image of the deployed application](${answers.image})`
-// ,
-//         (err) => err ? console.error(err) : console.log("ReadMe Created!"))
-// })
 
 

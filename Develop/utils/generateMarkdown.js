@@ -14,21 +14,21 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
   # ${data.title}
-  // ## Project Description
-  // ${data.description}
-  // ## Table of contents
-  // * [Installation](#installation)
-  // * [instructions](#instructions)
-  // * [collaborators](#collaborators)
-  // * [Contact and GitHub Info]
-  // ## Installation
-  // ${data.Installation}
-  // ## instructions
-  // ${data.instructions}
-  // ## collaborators
-  // ${data.collaborators}
-  // Github Profile: https://github.com/${data.github} 
-  // email: ${data.email}
+   Project Description
+  ${data.description}
+  Table of contents
+  [Installation](#installation)
+  [instructions](#instructions)
+  [collaborators](#collaborators)
+  [Contact and GitHub Info]
+  ## Installation
+  ${data.Installation}
+  ## instructions
+  ${data.instructions}
+  ## collaborators
+  ${data.collaborators}
+   Github Profile: https://github.com/${data.github} 
+   email: ${data.email}
 `;
 }
 
