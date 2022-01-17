@@ -29,5 +29,4 @@ Github Profile: https://github.com/joshuasamples2
 email: joshua.samples2@gmail.com
 
 
-https://user-images.githubusercontent.com/88003919/149689048-58e0ada9-c176-4cb6-b930-7ba34be1e094.mp4
 
