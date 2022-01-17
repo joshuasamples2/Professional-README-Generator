@@ -1,22 +1,22 @@
 # ReadMe Generator 
 
-  // ## Project Description
-  // This is an app that is used in the terminal to quickly and effectively generate a ReadMe.
+   ## Project Description
+  This is an app that is used in the terminal to quickly and effectively generate a ReadMe.
   
-  // ## Table of contents
-  // * [Installation](#installation)
+  ## Table of contents
+  [Installation](#installation)
   
-  // * [instructions](#instructions)
+ [instructions](#instructions)
   
-  // * [collaborators](#collaborators)
+ [collaborators](#collaborators)
   
-  // * [Contact and GitHub Info](#contacts)
+  [Contact and GitHub Info](#contacts)
   
-  // ## Installation
+## Installation
   // To use the Readme generator pull this project then in the terminal cd to the develope folder and then run node index.js
   
-  // ## instructions
-  // You would use this readme generator anytime you need a Readme.
+## instructions 
+You would use this readme generator anytime you need a Readme.
   
   // ## collaborators
   
